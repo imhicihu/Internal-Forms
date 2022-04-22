@@ -11,7 +11,7 @@
      - 
      - 
 * Online tools
-     - [libs.garden](https://libs.garden/): technical libraries searcher
+     - [Basecamp](https://basecamp.com/): project management
      - [Screenshot guru](https://screenshot.guru/)
      
 * Documentation
