@@ -1,6 +1,6 @@
-![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
 
 # RATIONALE #
 
@@ -28,42 +28,13 @@
 * Deployment instructions
     - 
 
-### Source ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/src)
-
-### Issues ###
-
-* Check them on [here](https://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/issues)
-
 ### Changelog ###
 
-* Please check the [Commits](https://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/commits/) section for the current status
-
-### Contribution guidelines ###
-
-* Writing tests
-    - 
-* Code review
-    - 
-* Other guidelines
-    - 
-
-### Related repositories ###
-
-* Some repositories linked with this project:
-     - [XXXXXXXXXXXXXXXX](https://bitbucket.org/imhicihu/XXXXXXXXXXXXXXXX/src/)
-     
-### Who do I talk to? ###
-
-* Repo owner or admin
-    - Contact `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/XXXXXXXXXXXX/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
+* Please check the [Commits](https://github.com/imhicihu/Internal-Forms/commits/main) section for the current status
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/XXXXXXXXXXXX/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](Code_of_conduct.md)
 
 ### Legal ###
 
@@ -71,4 +42,4 @@
 
 ### License ###
 
-* The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
