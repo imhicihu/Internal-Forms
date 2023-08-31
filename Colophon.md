@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware
 	- Macbook 13"
@@ -21,6 +21,6 @@
      - 
      - 
      
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
