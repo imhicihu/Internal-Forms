@@ -4,33 +4,15 @@
 
 # RATIONALE #
 
-* 
-* This repo is a living document that will grow and adapt over time
-
+* This is an internal repo that meets our needs.
+* It's a 3D representation of our hardware, divided in three levels
+* It is part of a set of Google Forms created for the occasion: collect where each device (monitor, cpu, portable hard disks, printers, etc.) is located spatially.
+<BR></BR>
+![1erSubsuelo](images/1erSubsuelo.png)
 ### What is this repository for? ###
 
 * Quick summary
-    - 
-* Version 1.01
-
-### How do I get set up? ###
-
-* Summary of set up
-    - 
-* Configuration
-    - 
-* Dependencies
-    - 
-* Database configuration
-    - 
-* How to run tests
-    - 
-* Deployment instructions
-    - 
-
-### Changelog ###
-
-* Please check the [Commits](https://github.com/imhicihu/Internal-Forms/commits/main) section for the current status
+    - 3d representation of every device & hardware that belongs to the institution.
 
 ### Code of Conduct
 
