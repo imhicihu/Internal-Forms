@@ -17,3 +17,11 @@
 
 ![issues-open](images/14149046-formulario.png)
 </details>
+
+#### Formulario de acopio de información para sesiones de Zoom institucionales
+
+<details>
+<summary>Versión 1.1</summary>
+
+![issues-open](images/zoom_calendario.png)
+</details>
