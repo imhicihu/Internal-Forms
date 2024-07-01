@@ -6,7 +6,7 @@
 
 * This is an internal repo that meets our needs.
 * It's a 3D representation of our hardware, divided in three levels
-* It is part of a set of Google Forms created for the occasion: collect where each device (monitor, cpu, portable hard disks, printers, etc.) is located spatially.
+* It is part of a set of [Google Forms](Google_forms.md) created for the occasion: collect where each device (monitor, cpu, portable hard disks, printers, etc.) is located spatially.
 <BR></BR>
 ![1erSubsuelo](images/1erSubsuelo.png)
 ### What is this repository for? ###
