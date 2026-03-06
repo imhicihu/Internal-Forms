@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/p2ycSygMSRmCCItCaeg8ng.webp?raw=true" alt="Logotipo de Internal-Forms"/>
+</p>
+
+---
+
 # JUSTIFICACIÓN #
 
 * Se trata de un repositorio interno que satisface nuestras necesidades.
