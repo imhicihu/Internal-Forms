@@ -8,7 +8,7 @@
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
-# RATIONALE #
+# [RATIONALE](LEEME.md) #
 
 * This is an internal repo that meets our needs.
 * It's a 3D representation of our hardware, divided in three levels
