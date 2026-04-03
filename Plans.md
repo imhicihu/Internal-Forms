@@ -1,7 +1,7 @@
 <details>
 <summary>Plano subsuelo</summary>
 
-![plan.jpg](images/205439299-IMG_0135.jpg)
+![plan.jpg](images/1118373917-IMG_0144.jpg)
 > Subsuelo
 </details>
 
@@ -15,6 +15,6 @@
 <details>
 <summary>Vista axial 5to piso</summary>
 
-![plan1.jpg](images/1118373917-IMG_0144.jpg)
+![plan1.jpg](images/205439299-IMG_0135.jpg)
 > 5to piso
 </details>
